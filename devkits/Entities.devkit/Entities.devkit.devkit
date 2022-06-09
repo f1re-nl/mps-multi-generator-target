@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dev-kit name="Entities.devkit" uuid="0a155b47-dae7-48f4-b530-dd6160b0d185">
+  <exported-language name="bfe5b784-2dee-4200-90e6-16838b160d24(Entities)" />
+  <exported-language name="9860a50d-9fd7-435a-b7da-10001b2acfc9(Entities.gen.baselanguage)" />
+  <exported-language name="364dac76-c062-4a8c-8378-da5b015c4782(Entities.gen.xml)" />
+  <exported-solutions>
+    <exported-solution>341deafd-4d9e-4050-a6ff-8ccf884f291e(Entities.genplan)</exported-solution>
+  </exported-solutions>
+  <generation-plan model="r:f322e8de-1d2a-48c6-944d-5b9ef4e2db07(Entities.genplan.genplan)" />
+</dev-kit>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/devkits/Entities.devkit/Entities.devkit.devkit" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Entities.gen.baselanguage/Entities.gen.baselanguage.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Entities.gen.xml/Entities.gen.xml.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Entities/Entities.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Entities.genplan/Entities.genplan.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Entities.sandbox/Entities.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mps-multi-generator-target.iml" filepath="$PROJECT_DIR$/.idea/mps-multi-generator-target.iml" />
+    </modules>
+  </component>
+</project>
