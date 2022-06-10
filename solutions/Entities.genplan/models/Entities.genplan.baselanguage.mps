@@ -31,7 +31,7 @@
     </language>
   </registry>
   <node concept="2VgMpV" id="2olyV21yvA1">
-    <property role="TrG5h" value="Entities BaseLanguage" />
+    <property role="TrG5h" value="Entities - BaseLanguage" />
     <node concept="3uMcMo" id="2olyV21yvA3" role="2VgMA7">
       <node concept="3uMdn$" id="2olyV21yvA8" role="3uOsAP">
         <node concept="20RdaH" id="2olyV21yvA9" role="3uMdmt">

@@ -30,10 +30,10 @@
     </language>
   </registry>
   <node concept="2VgMpV" id="2olyV21yw3b">
-    <property role="TrG5h" value="Entities XML" />
-    <node concept="3uMcMo" id="2olyV21yw3d" role="2VgMA7">
-      <node concept="3uMdn$" id="2olyV21yw3i" role="3uOsAP">
-        <node concept="20RdaH" id="2olyV21yw3j" role="3uMdmt">
+    <property role="TrG5h" value="Entities - XML" />
+    <node concept="3uMcMo" id="77Itkb4ISg4" role="2VgMA7">
+      <node concept="3uMdn$" id="77Itkb4ISg8" role="3uOsAP">
+        <node concept="20RdaH" id="77Itkb4ISg9" role="3uMdmt">
           <property role="20Rdg5" value="6dbf8793-2c5a-4bcf-b50c-7414306a57a3" />
           <property role="20Rdg7" value="Entities.gen.xml.generator" />
         </node>
